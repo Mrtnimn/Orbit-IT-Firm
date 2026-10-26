@@ -110,10 +110,4 @@ while preserving the existing folder structure, especially `assets/` and
 ## Contact
 
 Ready to make your business technology work better? Visit the
-[Orbit IT Solutions website](index.html#contact) to get in touch.
-
----
-
-<div align="center">
-  <sub>Built for businesses in Nairobi by Orbit IT Solutions.</sub>
-</div>
+[Orbit IT Solutions website](index.html#contact) to get in touch
