@@ -20,7 +20,6 @@ businesses across Nairobi.
   <p>
     <img src="https://img.shields.io/badge/Website-static-0ea5e9?style=for-the-badge" alt="Static website">
     <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-1e293b?style=for-the-badge" alt="Location: Nairobi, Kenya">
-    <img src="https://img.shields.io/badge/Payments-M--Pesa-16a34a?style=for-the-badge" alt="M-Pesa payments">
   </p>
 
 </div>
@@ -37,7 +36,7 @@ what they need, review an order, and contact the team remotely.
 | ----------------------- | ---------------------------------------------------------------------- |
 | **Browse services**     | Explore office networking, IT support, and web development options.    |
 | **Build an order**      | Add services to a cart and review the order before payment.            |
-| **Pay with M-Pesa**     | Follow the on-page payment guidance and provide the confirmation code. |
+| **Pay Easily and Securely via M-Pesa**     | Follow the on-page payment guidance and provide the confirmation code. |
 | **Confirm on WhatsApp** | Send order details to the team to speed up follow-up.                  |
 | **Contact the team**    | Find direct contact and location information in one place.             |
 
@@ -77,7 +76,7 @@ having to visit an office first.
 ## Run it locally
 
 Because this is a static website, you can preview it with any local web server.
-For example, with Python installed:
+For example, if you have Python installed:
 
 ```bash
 python -m http.server 8000
